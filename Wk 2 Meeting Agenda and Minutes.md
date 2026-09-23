@@ -12,13 +12,7 @@
  ### Agenda Item 1 - Set up repository
 * Repository set up by Matilda, titled 3116_assignment_AshtonMatildaVix
 * published to GitHub, changed to public
-<<<<<<< HEAD
-- hi
-=======
-* Tested whether we can edit simultaneously
-* 
->>>>>>> ceb3b1cedb860f47c623f482706abbe9abde7bfa
 
-### Agenda Item 2 - Deciding on a project
+
 
 
