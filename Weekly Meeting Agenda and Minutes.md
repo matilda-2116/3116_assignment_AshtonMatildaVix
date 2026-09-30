@@ -33,7 +33,7 @@ Assigning:
 Meeting end time: 12:02PM
 
 
-#Week 3 Meeting
+# Week 3 Meeting
 **attendees**: Ashton, Matilda, Vix
 **Time**: 12:50
 
@@ -52,7 +52,7 @@ Meeting end time: 12:02PM
 - plotting velocity against metallicity might help - as these both can be used to infer age (Check this)
 
 
-# Actions
+## Actions
 - Each of us will take one of the csv files, and start plotting the data 
 - this will include looking for outliers and making the data more readable
 - We will try lots of combinations of axes, think about how they might be related (add this in ), and look at what we find
@@ -62,7 +62,7 @@ Meeting end time: 12:02PM
 - next week we will look at our graphs, compare them, and see what patterns we have found, and use these findings to plan next steps.
 - Right now Matilda will make separate files for each dataset analysis so that we can edit simultaneously
 
-Meeting end: 13:09
+**Meeting end**: 13:09
 
 
 
