@@ -66,3 +66,53 @@ Meeting end time: 12:02PM
 
 
 
+# Week 4
+**attendees:** Ashton,  Matilda, Vix
+**Date/time:** 7/10/26 12:30PM
+
+## agenda
+- discussing what progress we have made
+- Talking about next steps and goal for this week
+- dividing up the work so that we can work on it simultaneously
+
+## minutes
+**Progress so far**
+Matilda's progress:
+- looked at my table and read the paper to figure out what the data in the table is 
+- plotted metallicity as it's an important variable for identifying accreted globular clusters
+- first did a box plot which didn't show any outliers, didn't trust my boxplot graphing skills so I manually checked for outliers using the IQR formula, so there were no outliers
+- in the GC video we were taught that bimodal distribution of metallicity is an indicator of accreted globular, lower mode of metallicity GCs more likely to be accreted, so I plotted a histogram
+- Trialed number of categories (bins) 
+- there are two modes of metallicity
+- my plan from here is to identify the 8 or so low metallicity GCs to look at their other variables
+
+Vix's progress
+- wanted to try and find a way to compile the datasets into one dataset so we could compar directly the information from different variables
+- Looked through the IDs of the Globular Clusters to find the common globular clusters
+- details of how she did this are in the code/comments
+- Appended the data sets on the rows of the common IDs
+- now we have one dataset with all of the data for the common globular clusters (51 total, which is a pretty good data set)
+- Caveat: She only looked through the NGC ID GCs with code, but hand-checked the name-only GCs and doesn't think there's any common ones in that set
+
+Ashton's progress:
+- plotted the data in regard to different locational variables so we have information about where globular clusters are concentrated 
+- This will be useful when we are doing further analysis on the properties of Globular Clusters for comparison.
+
+**Next Steps and Wk4-5 Goal**
+- identify globular clusters with low metallicity
+- plot kinematic data from Vix's combined dataset
+- identify GCs with interesting kinematics, check for commonality with interesting globular clusters
+- Matilda wrote notes on what to plot for kinematics: Velocity and rotation kinematics (GC's moving or rotating much faster or slower), plotting distance against recessional velocity
+- Ashton suggests plotting eccentricity of orbits of GCs
+- Variables like metallicity, eccentricity, velocity etc will be plotted individually as histograms first to identify the most likely relevant globular clusters, and then from there scatter plots will be made to compare variables and identify GCs that are candidates for accreted GCs in both variables
+
+**dividing up the work**
+- Matilda will identify low-metallicity GCs
+- Ashton will plot distance against recessional velocity
+- Vix will plot eccentricity, and eccentricity against metallicity
+- Matilda will plot velocity and rotation data. She will also compare low metallicity globular clusters to their ages (younger low-metallicity are more likely to be accreted)
+
+
+
+
+
