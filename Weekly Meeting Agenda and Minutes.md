@@ -113,6 +113,47 @@ Ashton's progress:
 - Matilda will plot velocity and rotation data. She will also compare low metallicity globular clusters to their ages (younger low-metallicity are more likely to be accreted)
 
 
+# Week 5
+**attendees**: Ashton Matilda Vix
+**Time**: 12PM
+
+## Agenda
+- go over our work from this week
+- plan any last bits of coding that need to be done asap
+- make a plan for the video presentation, who will say what and write what, how we will film it etc
+
+## minutes
+**item 1 - what we achieved**
+Ashton:
+- did the plots we agreed to make last week (in HarrisI ipynb file)
+- plotted galactocentric distance against recessional velocity
+- Wants to add metallicity gradients to all his plots - will look at tutorial from last week to figure out how to do this
+- noted some outliers with unusually high galactocentric distance and high LSR velocity
+Vix:
+- Was going to do eccentricity but we didn't have eccentricity data
+- Tried to find outliers in relationships between galactocentric distance with longitude and latitude
+- Vix to add labels to her graphs this week
+- tried to find a relationship between metallicity and galactocentric distance, longitude and latitude (will need to cross-reference interesting data points from all three of these with the others and heliocentric distances to make sure latitude measurments aren't being skewed by how close they are to the sun)
+Matilda:
+- Identified the GCs in the lower mode of metallicity as these provide possible candidates for accreted globular clusters (from the GC lecture) Created arrays of the indexes and metallicities of possible candidate globular clusters so that we can more easily compare other data
+- Plotted age against metallicity, highlighting the low metallicity candidate GCs
+- there wasn't a particularly obvious age difference in the low-metalliciy GCs, but they do appear to be slightly younger than the trend of the other GCs based on metallicity, which could support their candidacy as GCs.
+- Couldn't find any rotational data so decided to wait for group meeting to discuss
+
+**Check**
+- we checked the assessment brief to make sure we hadn't missed any variables that it required us to plot
+
+**next steps**
+- Matilda will plot LSR velocity against metallicity - since the solar neighbourhood is more representative of the general movement of the galaxy we are hopeful that our candidate GCs will have a higher LSR velocity compared to other GCs.
+- Vix and Ashton will add colour gradients to show metallicity on their graphs
+- Vix will add labels to her graphs
+- we need to start planning our presentation
+- Vix will create a google doc and send us the link for us to start scripting it
+- we will book one of the rooms in the law library that has a TV so we can project code onto it while we film
+- We will also all try and turn our graphs into lists of potentially accreted globular clusters 
+
+
+
 
 
 
