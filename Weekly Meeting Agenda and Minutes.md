@@ -153,6 +153,43 @@ Matilda:
 - We will also all try and turn our graphs into lists of potentially accreted globular clusters 
 
 
+# Week 6 
+**Date/time:** 23/10/26 12PM
+**Attendees:** Vix Ashton Matilda
+## Agenda
+- review coding progress
+- plan presentation
+- set time to record presentation
+## Minutes
+- Coding progress
+**Ashton**
+- Added metallicity gradient to the positional and velocity graphs, not that helpful but a good thing to check
+- Went through each dataset and created a range of values to provide weightings for likelihood of accretion based on different variables
+- classified every GC in terms of likelihood of being accreted based on weightings.
+- all GCs have been ranked in terms of most likely to be accreted
+- looked through the top 3 and checked all of their variables. 
+
+**Vix**
+- Fixed up her graphs to add titles etc as discussed last week.
+- Also tried to plot AMR like Matilda did, and wanted to try and add a line-of-best-fit on GCs that we knew most likely weren't accreted
+
+**Matilda**
+- Re-plotted AMR graph without identifying GCs in the lower mode of metallicity to prevent bias in the interpretation of the graph
+- Identified data points on the graph which looked like candidates of accreted GCS and set up code to identify them in the data so we could find the name
+- did this for the AMR and for the LSR velocity and metallicity graphs
+- cross-checked with Ashton's list and most of the GCs identified in this way were either in his good candidates list or probable candidates list
+
+
+## Plan
+- Find papers which support general relationships, specific bounds if possible but our feeling is that based on authority for the general relationship we can support our selection of bounds from our graphs.
+- Write the script for the presentation
+- do the presentation
+- Divvying up the sections of the presentation
+    - ashton will do the science content - what is an accreted GC and support for parameters and relations
+    - Matilda will talk about list of candidates and justify them based on Ashton's science content
+    - Vix will talk about the milky way formation, proportion of accreted v non-accreted, and how we could improve our findings
+- if anyone's section is too short or too long we will revisit
+- will film over zoom call hopefully on Sunday
 
 
 
